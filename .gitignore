@@ -1,0 +1,7 @@
+node_modules/**
+docs/**
+samples/**
+.DS_Store
+
+# this files contains my account specific secrets 
+00_sharedconst.js
